@@ -10,11 +10,9 @@
     padding: 0;
     margin: 0;
 }
-html {
-    font-family: 'Outfit', sans-serif;
-}
 body {
     background: var(--light-grey);
+    font-family: 'Outfit', sans-serif;
 }
 body.dark {
     background: linear-gradient(var(--dark-blue), #000);
@@ -31,7 +29,6 @@ body.dark {
     background: #fff;
     min-width: 290px;
     height: 500px;
-    max-height: 550px;
     border-radius: 20px;
     padding: 15px;
     display: flex;
