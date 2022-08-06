@@ -25,12 +25,13 @@ body.dark {
     justify-content: center;
     align-items: center;
 }
-.box {
+.card {
     background: #fff;
     min-width: 290px;
     height: 500px;
     border-radius: 20px;
     padding: 15px;
+    box-shadow: 3px 3px 10px 1px rgba(0, 0, 0, 0.287);
     display: flex;
     flex-direction: column;
     align-items: center;
