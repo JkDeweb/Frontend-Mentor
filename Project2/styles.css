@@ -73,6 +73,9 @@ h1 {
     gap: 20px;
     color: var(--dark-cyan);
 }
+.product__txt-price p {
+    text-decoration: line-through;
+}
 button {
     justify-content: center;
     background: var(--dark-cyan);
