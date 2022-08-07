@@ -18,7 +18,7 @@ html {
 }
 body {
     background: var(--cream);
-    transition: all 2s;
+    transition: all 1.5s;
 }
 
 h3, strike, p {
