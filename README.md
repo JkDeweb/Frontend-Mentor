@@ -4,5 +4,5 @@ My first projects developed with HTML, CSS and JS in Frontend Mentor: https://ww
 ## Preview of the sites:
 Project1: https://jkdeweb.github.io/Frontend-Mentor/Project1/
 
-Project2: https://jkdeweb.github.io/Frontend-Mentor/Project2/
+Project2: ![https://jkdeweb.github.io/Frontend-Mentor/Project2/]
 
